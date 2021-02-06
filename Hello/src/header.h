@@ -8,6 +8,7 @@
 #ifndef HEADER_H_
 #define HEADER_H_
 
-
+//関数宣言
+void doubleup(void);
 
 #endif /* HEADER_H_ */
