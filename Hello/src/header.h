@@ -10,5 +10,6 @@
 
 //関数宣言
 void doubleup(void);
+void malloc_practice(void);
 
 #endif /* HEADER_H_ */

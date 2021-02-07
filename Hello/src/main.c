@@ -11,6 +11,8 @@
 int main(){
 
 	//一週間で身につくc言語の基本 発展問題2 probex4-2 doubleup.c
-	doubleup();
+	//doubleup();
+	//一週間で身につくc言語の基本 発展問題2 probex4-3 malloc_practice.c
+	malloc_practice();
 
 }
