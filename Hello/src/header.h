@@ -11,5 +11,6 @@
 //関数宣言
 void doubleup(void);
 void malloc_practice(void);
+void string_join(void);
 
 #endif /* HEADER_H_ */
