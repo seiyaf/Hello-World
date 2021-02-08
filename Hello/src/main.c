@@ -16,6 +16,8 @@ int main(){
 	//一週間で身につくc言語の基本 発展問題2 probex4-3 malloc_practice.c
 	//malloc_practice();
 	//一週間で身につくc言語の基本 発展問題2 probex5-1 string_join.c
-	string_join();
+	//string_join();
+	//一週間で身につくc言語の基本 発展問題2 probex5-2 string_join2.c
+	string_join2();
 
 }

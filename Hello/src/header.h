@@ -12,5 +12,6 @@
 void doubleup(void);
 void malloc_practice(void);
 void string_join(void);
+void string_join2(void);
 
 #endif /* HEADER_H_ */
