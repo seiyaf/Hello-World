@@ -17,7 +17,11 @@ int main(){
 	//malloc_practice();
 	//一週間で身につくc言語の基本 発展問題2 probex5-1 string_join.c
 	//string_join();
-	//一週間で身につくc言語の基本 発展問題2 probex5-2 string_join2.c
-	string_join2();
+	//一週間で身につくc言語の基本 発展問題2 probex5-2 string_join.c
+	//string_join2();
+	//一週間で身につくc言語の基本 発展問題2 probex5-3 string_len.c
+	//string_len();
+	//一週間で身につくc言語の基本 発展問題2 probex5-4 string_len.c
+	string_len2();
 
 }
