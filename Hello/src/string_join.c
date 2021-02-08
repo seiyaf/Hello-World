@@ -7,15 +7,14 @@
 
 #include <stdio.h>
 #include <string.h>
-#include <malloc.h>
 
 #define SIZEA 10
-#define SIZEB 10
+#define SIZEB 20
 
 void string_join(void){
     char s1[SIZEA];                        //  最大10文字まで入る文字列
     char s2[SIZEA];                        //  最大10文字まで入る文字列
-    char s3[SIZEB];                        //  最大10文字まで入る文字列
+    char s3[SIZEB];                        //  最大20文字まで入る文字列
     //文字列1の入力を待つ
     printf("一つ目の文字列を入力してください\n");
     fflush(stdout);
@@ -35,7 +34,7 @@ void string_join2(void){
 	int i=0;
     char s1[SIZEA];                        //  最大10文字まで入る文字列
     char s2[SIZEA];                        //  最大10文字まで入る文字列
-    char s3[SIZEB];                        //  最大10文字まで入る文字列
+    char s3[SIZEB];                        //  最大20文字まで入る文字列
     char *ps1;
     char *ps2;
 
