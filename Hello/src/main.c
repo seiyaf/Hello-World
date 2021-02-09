@@ -22,6 +22,10 @@ int main(){
 	//一週間で身につくc言語の基本 発展問題2 probex5-3 string_len.c
 	//string_len();
 	//一週間で身につくc言語の基本 発展問題2 probex5-4 string_len.c
-	string_len2();
+	//string_len2();
+	//一週間で身につくc言語の基本 発展問題2 probex5-5 string_compare.c
+	//string_compare();
+	//一週間で身につくc言語の基本 発展問題2 probex5-6 string_compare.c
+	string_compare2();
 
 }

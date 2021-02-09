@@ -3,11 +3,11 @@
 
 #define SIZE 5
 
-void doubleup_main(int *p);
+static void doubleup_main(int *p);
 
 void doubleup(void){
 //  サイズSIZEの配列を用意する。
-int nums[SIZE]  ;
+int nums[SIZE];
 int *p = NULL;
 int i;
 
@@ -19,7 +19,7 @@ p = nums; //  pにnumsのアドレスを入力
 doubleup_main(p);
 }
 
-void doubleup_main(int *p){
+static void doubleup_main(int *p){
     int i;
 
 	printf("発生した乱数\n");

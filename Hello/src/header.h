@@ -15,5 +15,7 @@ void string_join(void);
 void string_join2(void);
 void string_len(void);;
 void string_len2(void);
+void string_compare(void);
+void string_compare2(void);
 
 #endif /* HEADER_H_ */
