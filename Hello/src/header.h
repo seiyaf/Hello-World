@@ -19,5 +19,6 @@ void string_compare(void);
 void string_compare2(void);
 void string_to_int(void);
 void string_maxim_len(void);
+void string_reverse(void);
 
 #endif /* HEADER_H_ */

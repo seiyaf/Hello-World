@@ -30,6 +30,7 @@ int main(){
   //一週間で身につくc言語の基本 発展問題2 probex5-7 string_to_int.c
   //string_to_int();
   //一週間で身につくc言語の基本 発展問題2 probex5-8 string_maxim_len.c
-  string_maxim_len();
-
+  //string_maxim_len();
+  //一週間で身につくc言語の基本 発展問題2 probex5-9 string_reverse.c
+  string_reverse();
 }
