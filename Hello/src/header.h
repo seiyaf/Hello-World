@@ -20,5 +20,7 @@ void string_compare2(void);
 void string_to_int(void);
 void string_maxim_len(void);
 void string_reverse(void);
+void coordinate_caluculation(void);
+void student_struct(void);
 
 #endif /* HEADER_H_ */

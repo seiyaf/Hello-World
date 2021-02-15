@@ -32,5 +32,10 @@ int main(){
   //一週間で身につくc言語の基本 発展問題2 probex5-8 string_maxim_len.c
   //string_maxim_len();
   //一週間で身につくc言語の基本 発展問題2 probex5-9 string_reverse.c
-  string_reverse();
+  //string_reverse();
+  //一週間で身につくc言語の基本 発展問題3 probex6-1 coordinate_caluculation.c
+  //coordinate_caluculation();
+  //一週間で身につくc言語の基本 発展問題3 probex6-2 student_struct.c
+  student_struct();
+
 }
