@@ -36,6 +36,13 @@ int main(){
   //一週間で身につくc言語の基本 発展問題3 probex6-1 coordinate_caluculation.c
   //coordinate_caluculation();
   //一週間で身につくc言語の基本 発展問題3 probex6-2 student_struct.c
-  student_struct();
+  //student_struct();
+  //一週間で身につくc言語の基本 発展問題3 probex6-3 time_caluculation.c
+  //time_caluculation();
+  //一週間で身につくc言語の基本 発展問題3 probex6-4 kimatu_test.c
+  //kimatu_test();
+  //一週間で身につくc言語の基本 発展問題3 probex6-5 kimatu_test.c
+  //一週間で身につくc言語の基本 発展問題3 probex6-6 kimatu_test.c
+  kimatu_test2();
 
 }

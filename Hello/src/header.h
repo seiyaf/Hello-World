@@ -22,5 +22,9 @@ void string_maxim_len(void);
 void string_reverse(void);
 void coordinate_caluculation(void);
 void student_struct(void);
+void time_caluculation(void);
+void kimatu_test(void);
+void kimatu_test2(void);
+
 
 #endif /* HEADER_H_ */
