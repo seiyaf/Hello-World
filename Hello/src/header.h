@@ -25,6 +25,7 @@ void student_struct(void);
 void time_caluculation(void);
 void kimatu_test(void);
 void kimatu_test2(void);
+void kakeibo(void);
 
 
 #endif /* HEADER_H_ */

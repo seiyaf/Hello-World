@@ -19,7 +19,7 @@ typedef struct{
     int eigo;       //  英語の点数
 }student_data;
 
-int summ(student_data* data);
+static int summ(student_data* data);
 void sort(int* goukei, student_data* data);
 
 void kimatu_test(void){
@@ -100,7 +100,7 @@ void kimatu_test2(void){
 }
 
 //教科の合計点を算出する関数
-int summ(student_data* data){
+static int summ(student_data* data){
 
   return data->kokugo + data->sansu + data->rika + data->shakai + data->eigo;
 }
