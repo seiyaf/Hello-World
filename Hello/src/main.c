@@ -45,6 +45,8 @@ int main(){
   //一週間で身につくc言語の基本 発展問題3 probex6-6 kimatu_test.c
   //kimatu_test2();
   //一週間で身につくc言語の基本 発展問題3 probex6-7 kakeibo.c
-  kakeibo();
+  //kakeibo();
+  //一週間で身につくc言語の基本 発展問題4 probex7-1 helleworld.c
+  helleworld();
 
 }

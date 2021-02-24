@@ -26,6 +26,7 @@ void time_caluculation(void);
 void kimatu_test(void);
 void kimatu_test2(void);
 void kakeibo(void);
+void helleworld(void);
 
 
 #endif /* HEADER_H_ */
