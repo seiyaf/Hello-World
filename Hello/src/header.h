@@ -29,5 +29,7 @@ void kakeibo(void);
 void helleworld(void);
 void sampletext(void);
 void datasave(void);
+void wordstext(void);
+void numstext(void);
 
 #endif /* HEADER_H_ */

@@ -51,5 +51,9 @@ int main(){
   //一週間で身につくc言語の基本 発展問題4 probex7-2 sampletext.c
   //sampletext();
   //一週間で身につくc言語の基本 発展問題4 probex7-3 helleworld.c
-  datasave();
+  //datasave();
+  //一週間で身につくc言語の基本 発展問題4 probex7-4 sampletext.c
+  //wordstext();
+  //一週間で身につくc言語の基本 発展問題4 probex7-5 numstext.c
+  numstext();
 }
