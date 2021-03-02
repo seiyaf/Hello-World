@@ -27,6 +27,7 @@ void kimatu_test(void);
 void kimatu_test2(void);
 void kakeibo(void);
 void helleworld(void);
-
+void sampletext(void);
+void datasave(void);
 
 #endif /* HEADER_H_ */
