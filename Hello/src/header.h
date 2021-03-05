@@ -31,5 +31,7 @@ void sampletext(void);
 void datasave(void);
 void wordstext(void);
 void numstext(void);
+void displaya(void);
+void scoretext(void);
 
 #endif /* HEADER_H_ */
